@@ -6,4 +6,5 @@ This is a simple example of using Rocket as a backend to serve content to a Diox
 The example sends text, however could be used to implement authentication, cookies, and custom serverside database implmentations.
 
 From terminal, enter the DioxusClient folder and run: dioxus serve
+
 From another terminal, enter the RocketBackend folder and run: cargo run
